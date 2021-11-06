@@ -11,7 +11,7 @@ final class ShowBookmarkListPageUseCase
 {
     /**
      * SEO
-     * title, description
+     * title, description 
      * titleは固定、descriptionは人気のカテゴリTOP5を含める
      *
      * ソート
